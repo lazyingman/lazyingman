@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 <!-- 贪吃蛇 - 图片有 actions/Generate Snake 定时生成 -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/lazyingman/lazyingman/assets/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/lazyingman/lazyingman/assets/github-snake.svg" />
-  <img width="100%" alt="github-snake" src="https://cdn.jsdelivr.net/gh/lazyingman/lazyingman/assets/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://cdn1.tianli0.top/gh/lazyingman/lazyingman/assets/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://cdn1.tianli0.top/gh/lazyingman/lazyingman/assets/github-snake.svg" />
+  <img width="100%" alt="github-snake" src="https://cdn1.tianli0.top/gh/lazyingman/lazyingman/assets/github-snake.svg" />
 </picture>
 
